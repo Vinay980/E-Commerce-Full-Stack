@@ -38,6 +38,8 @@ const BestSeller = () => {
                 )}
             </div>
 
+            
+
         </div>
     )
 }
