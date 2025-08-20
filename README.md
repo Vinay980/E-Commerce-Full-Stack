@@ -3,7 +3,7 @@
 A full-stack **E-Commerce Web Application** built with the **MERN stack (MongoDB, Express.js, React.js, Node.js)**.  
 This project provides all the core e-commerce functionalities such as product browsing, shopping cart, authentication, order handling, and an admin panel for product management.
 
-🌐 **Live Demo**: [Click Here](https://vercel.com/vinay980s-projects/e-commerce-full-stack/A3ugzSZX4q52sg8VVkjHdQyKCNir)  
+🌐 **Live Demo**: [Click Here]([https://vercel.com/vinay980s-projects/e-commerce-full-stack/A3ugzSZX4q52sg8VVkjHdQyKCNir](https://e-commerce-full-stack-tawny.vercel.app/))  
 💻 **GitHub Repo**: [E-Commerce Full Stack](https://github.com/Vinay980/E-Commerce-Full-Stack)
 
 ---
